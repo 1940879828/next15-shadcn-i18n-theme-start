@@ -1,0 +1,22 @@
+{
+  "translation": {
+    "Welcome to React": "Welcome to React ",
+    "header": {
+      "Stake": "Stake",
+      "Wallet connected": "Wallet connected",
+      "Connected Wallet" : "Connected Wallet"
+    },
+    "setting": {
+      "Global preferences": "Global preferences",
+      "Theme": "Theme",
+      "Language": "Language",
+      "English": "English",
+      "Chinese": "Chinese"
+    },
+    "test1": {
+      "test2": {
+        "test3": "test"
+      }
+    }
+  }
+}

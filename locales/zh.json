@@ -1,0 +1,22 @@
+{
+  "translation": {
+    "Welcome to React": "欢迎使用 React ",
+    "header": {
+      "Stake": "质押",
+      "Wallet connected": "钱包已连接",
+      "Connected Wallet" : "链接钱包"
+    },
+    "setting": {
+      "Global preferences": "全局设置",
+      "Theme": "主题",
+      "Language": "语言",
+      "English": "英语",
+      "Chinese": "中文"
+    },
+    "test1": {
+      "test2": {
+        "test3": "测试"
+      }
+    }
+  }
+}
