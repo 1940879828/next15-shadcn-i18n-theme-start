@@ -70,3 +70,15 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+::view-transition-new(root),
+::view-transition-old(root) {
+  /* 关闭默认动画，否则影响自定义动画的执行 */
+  animation: none;
+  /* 设置了元素的混合模式为"正常" */
+  mix-blend-mode: normal;
+}
+
+.dark-transition::view-transition-old(root) {
+  z-index: 100 !important; /* 确保在添加类时能生效 */
+}
